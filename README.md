@@ -1,0 +1,3 @@
+El proyecto Gerencia de Proyectos muestra el uso de encabezados, HTML y CSS. Incluye objetos incrustados de redes sociales como Facebook, X y YouTube, así como páginas adicionales para actividades, lecturas y multimedia. También contiene videos incrustados en la página. Este proyecto forma parte de trabajos antiguos que evidencian la iniciación en la programación.
+
+The Project Management project demonstrates the use of headers, HTML, and CSS. It includes embedded social media objects from platforms such as Facebook, X, and YouTube, as well as additional pages for activities, readings, and multimedia. The page also contains embedded videos. This project is part of older works that showcase the beginning stages of programming.
